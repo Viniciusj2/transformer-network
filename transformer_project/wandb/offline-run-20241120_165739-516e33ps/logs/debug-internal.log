@@ -1,0 +1,15 @@
+{"time":"2024-11-20T16:57:39.737778314-05:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-20T16:57:39.7377974-05:00","level":"INFO","msg":"created symlink","path":"/home/vdasil01/transformer-network/trasnformer_project/wandb/offline-run-20241120_165739-516e33ps/logs/debug-core.log"}
+{"time":"2024-11-20T16:57:39.878184079-05:00","level":"INFO","msg":"created new stream","id":"516e33ps"}
+{"time":"2024-11-20T16:57:39.8782319-05:00","level":"INFO","msg":"stream: started","id":"516e33ps"}
+{"time":"2024-11-20T16:57:39.878287816-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:39.878328493-05:00","level":"INFO","msg":"sender: started","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:39.878366836-05:00","level":"INFO","msg":"handler: started","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:39.885482109-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-20T16:57:42.088304446-05:00","level":"INFO","msg":"stream: closing","id":"516e33ps"}
+{"time":"2024-11-20T16:57:42.088337559-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-20T16:57:42.089040704-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-20T16:57:42.089374919-05:00","level":"INFO","msg":"handler: closed","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:42.089397672-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:42.089442458-05:00","level":"INFO","msg":"sender: closed","stream_id":"516e33ps"}
+{"time":"2024-11-20T16:57:42.089542798-05:00","level":"INFO","msg":"stream: closed","id":"516e33ps"}

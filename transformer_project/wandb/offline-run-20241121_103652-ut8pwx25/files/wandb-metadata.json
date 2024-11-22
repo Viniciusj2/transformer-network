@@ -1,0 +1,41 @@
+{
+  "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-11-21T15:36:52.623259Z",
+  "program": "/home/vdasil01/transformer-network/transformer_project/train.py",
+  "codePath": "transformer_project/train.py",
+  "git": {
+    "remote": "git@github.com:Viniciusj2/transformer-network.git",
+    "commit": "39750d374df985399d5ce3f093d72d3ae1e14ac4"
+  },
+  "root": "/home/vdasil01/transformer-network/transformer_project",
+  "host": "LAPTOP-F0207DIH",
+  "username": "root",
+  "executable": "/usr/bin/python3",
+  "codePathLocal": "train.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "gpu": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "1081101176832",
+      "used": "160205709312"
+    }
+  },
+  "memory": {
+    "total": "7195672576"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "memoryTotal": "4294967296",
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.7"
+}

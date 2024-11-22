@@ -12,7 +12,7 @@ sampling_rate_MHz = 1.25
 time_per_sample_us = 1 / sampling_rate_MHz
 t0_ns = -100.0
 t0_us = t0_ns / 1000.0
-window_pretrig_samples = 2
+window_pretrig_samples = 1
 THRESHOLD = 5  # Trigger threshold
 
 def analyze_pmt_waveforms(rootfile_path, output_file):
